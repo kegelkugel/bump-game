@@ -5,7 +5,7 @@
 #
 # Not fully implemented yet.
 #
-# Markus Reinert, started 2019-01-13
+# started by Markus Reinert on 2019-01-13
 
 import time
 from enum import Enum
