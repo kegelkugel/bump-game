@@ -1,6 +1,6 @@
 # bump-game
-A fun arcade game where you have to bump against other players and must avoid dangerous walls, written in Python.
-It's inspired by some (Xbox ?) game I've played recently but don't know the name of.
+A fun arcade game where you can bump against other players like elastic balls and must avoid dangerous walls, written in Python.
+It's inspired by an old game of which I don't know the name anymore.
 
 The development is in a very early stage, but unfortunately I currently don't have the time to work further on it.
 Especially the collision algorithm has to be improved, and lots of other stuff has to be added, like menus, limited number of boosters, power-ups, dangerous enemies, multiplayer support etc.
